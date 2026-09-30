@@ -1,6 +1,9 @@
 # Ride-trip-predictor
 A Machine Learning project that uses Linear Regression to analyze ride trip data and predict the target variable based on relevant trip features. The project covers data preprocessing, exploratory data analysis, feature selection, model training, evaluation, and prediction.
 
+<img width="393" height="243" alt="Screenshot 2026-09-30 113918" src="https://github.com/user-attachments/assets/e3666180-b592-46e6-88ef-63adbe0d1c7a" />
+
+
 1. Analyzed ride trip data to predict ride duration using Linear Regression.
 2. Loaded and processed the ride dataset using Pandas and NumPy.
 3. Converted ride start and end timestamps into datetime format and calculated ride duration in minutes.
